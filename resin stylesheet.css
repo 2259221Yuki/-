@@ -61,13 +61,13 @@ li {
 .log2 {
   border-bottom:1px solid #333;
   font-size:36px;
-  padding-top:190px;
+  padding-top:210px;
 }
   
 .log3 {
   border-bottom:1px solid #333;
   font-size:36px;
-  padding-top:180px;
+  padding-top:240px;
 }
 .contents-item {
   float: left;  
@@ -81,7 +81,7 @@ li {
 .log4{
   border-bottom:1px solid #333;
   font-size:36px;
-  padding-top:280px;
+  padding-top:320px;
 }
 
 .footer {
